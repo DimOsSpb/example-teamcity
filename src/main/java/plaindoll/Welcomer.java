@@ -13,4 +13,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the wasy";
 	}
+	public String sayHunter(){
+		return "Lucky hunter"
+	}
 }
